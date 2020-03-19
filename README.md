@@ -1,16 +1,15 @@
-# test_freezed
+# Flutter project : Sembast demo using Bloc pattern
 
-A new Flutter project.
+## Version
+```yaml
+dependencies:
+  sembast: ^2.3.0
+  path_provider: ^0.5.0
+  flutter_bloc: ^3.2.0
 
-## Getting Started
+dev_dependencies:
+  freezed: ^0.7.0
+  build_runner: ^1.0.0
+  json_serializable: ^3.0.0
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
